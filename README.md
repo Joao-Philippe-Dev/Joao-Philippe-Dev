@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Joao-Philippe-Dev/Joao-Philippe-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-philippe-6b4421224/)
